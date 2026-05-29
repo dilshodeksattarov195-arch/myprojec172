@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "metricsverify",
+        "uuid": 572932,
+        "checksum": "lgha68"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": true,
+        "mode": "production"
+    }
+}
